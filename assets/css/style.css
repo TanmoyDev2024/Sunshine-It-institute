@@ -527,23 +527,22 @@
   
 }
 
-.populer-courses-section  .all-content .slick-prev i{
-    font-size: 30px;
-    color: #fff;
+.populer-courses-section  .all-content .slick-prev i {
+    font-size: 58px;
+    color: #050505;
     z-index: 55555;
     position: absolute;
     top: 300px;
-    left: -9px;
-
+    left: -38px;
 }
 
-.populer-courses-section .all-content  .slick-next i{
-    font-size: 30px;
-    color: #fff;
+.populer-courses-section .all-content  .slick-next i {
+    font-size: 58px;
+    color: #000000;
     z-index: 55555;
     position: absolute;
     top: 300px;
-    right: -9px;
+    right: -38px;
 }
 
 .populer-courses-section .all-content .all-card .slick-prev{
@@ -1129,12 +1128,12 @@
 
 
 /* FOOTER SECTION START */
-.footer-section{
+.footer-section {
     padding: 30px 0;
     margin: 0;
-    background-color: #E5F3F6;
-    border-top: 2px solid var(--primary-color);
-    border-bottom: 2px solid var(--primary-color);
+    background-color: #2a2d2e;
+    border-top: 2px solid #747474;
+    border-bottom: 2px solid #747474;
 }
 
 .footer-section .all-content{
@@ -1157,7 +1156,7 @@
     font-family: inherit;
     font-size: 16px;
     font-weight: 400;
-    color: #000000;
+    color: #ffffff;
     line-height: 1.2;
     padding:0;
     margin: 0;
@@ -1172,7 +1171,7 @@
     font-family: inherit;
     font-size: 20px;
     font-weight: 600;
-    color: #000000;
+    color: #ffffff;
     line-height: 1.2;
     padding: 0;
     margin-bottom:15px;
@@ -1182,7 +1181,7 @@
     font-family: inherit;
     font-size: 14px;
     font-weight: 500;
-    color: #000000;
+    color: #ffffff;
     line-height: 1.2;
     padding: 0;
     margin: 0;
@@ -1227,7 +1226,7 @@
 }
 
 .footer-section .all-content .right-block .icons i{
-    color: #000000;
+    color: #ffffff;
     font-size: 20px;
     font-weight: 500;
     border: none;
@@ -1238,11 +1237,11 @@
     padding: 20px 0;
     margin: 0;
     border-bottom: 2px solid var(--primary-color);
-    background-color: #E5F3F6;
+    background-color: #2c2d2d;
 }
 
 .copyright p{
-    color: #000000;
+    color: #ffffff;
     font-size: 16px;
     font-weight: 500;
     border: none;

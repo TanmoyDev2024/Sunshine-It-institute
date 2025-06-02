@@ -112,16 +112,16 @@
     }
 
     .buttom-card-section .all-card {
-        top: -16px;
-    }
+    top: -35px;
+}
 
 }
 
 @media only screen and (max-width: 1280px) {
 
     .banner-img {
-        height: 66vh;
-    }
+    height: 83vh;
+}
 
     .container {
         padding-inline: 20px;
